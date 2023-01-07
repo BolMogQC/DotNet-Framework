@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0FDOZINeD8/WO/hKf0R2ZPmc1eeIbLtrokDw6ywAzgubhv4tR3d9rE5P1q92+A9YUv+d8d7NX5p7lQrQBbSCLg==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\DotNet-Framework\\Framework\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Loic\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Loic\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Loic\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Loic\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

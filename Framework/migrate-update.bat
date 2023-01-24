@@ -1,0 +1,1 @@
+dotnet ef database update "%1" --project .\src\Infrastructure\ --startup-project .\src\Web\

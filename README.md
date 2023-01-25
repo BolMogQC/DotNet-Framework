@@ -12,6 +12,7 @@ Basic Roadmap for the project:
 - [ ] Authentification
 - [ ] Roles and permissions
 - [ ] API admin panel
+- [ ] Test automation
 - [ ] Email service
 - [ ] Storage service
 - [ ] Feature toggling system
@@ -30,6 +31,7 @@ Basic Roadmap for the project:
 - [ ] Authentification
 - [ ] Rôles and permissions
 - [ ] Panneau d'administration de l'API
+- [ ] Automatisation de tests
 - [ ] Système d'envoi de courriels
 - [ ] Système de stockage
 - [ ] Gestion de fonctionnalités
